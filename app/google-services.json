@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "852063056672",
+    "project_id": "top-chain-236308",
+    "storage_bucket": "top-chain-236308.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852063056672:android:2b633303ff307c89775d45",
+        "android_client_info": {
+          "package_name": "com.shakir.otpapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852063056672-1auf3u92laoeco3chlgsnjpe5vlqghvo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shakir.otpapp",
+            "certificate_hash": "9ef5c1209e1d42149353fd9cbc39c2aa5f44efec"
+          }
+        },
+        {
+          "client_id": "852063056672-tnhj6tipbd8t1opamqospne99f1342ac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6-1VbNVCEe8vXCXfCfrYXt8dYHQ_2KDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852063056672-tnhj6tipbd8t1opamqospne99f1342ac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
